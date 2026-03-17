@@ -6,7 +6,7 @@
  * Includes behavioral trigger evaluation on read.
  */
 
-import type { ToolPlugin } from 'cortex-engine';
+import type { ToolPlugin } from '@fozikio/cortex-engine';
 import { vitalsGetTool } from './tools/vitals-get.js';
 import { vitalsSetTool } from './tools/vitals-set.js';
 

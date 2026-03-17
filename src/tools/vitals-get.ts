@@ -7,7 +7,7 @@
  * Trigger evaluation checks thresholds and returns action recommendations.
  */
 
-import type { ToolDefinition, ToolContext } from 'cortex-engine';
+import type { ToolDefinition, ToolContext } from '@fozikio/cortex-engine';
 
 const COLLECTION = 'vitals';
 

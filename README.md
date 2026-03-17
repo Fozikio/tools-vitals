@@ -25,7 +25,7 @@ plugins:
 
 ```typescript
 import vitalsPlugin from "@fozikio/tools-vitals";
-import { CortexEngine } from "cortex-engine";
+import { CortexEngine } from "@fozikio/cortex-engine";
 
 const engine = new CortexEngine({
   plugins: [vitalsPlugin],

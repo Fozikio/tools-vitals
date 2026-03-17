@@ -2,7 +2,7 @@
  * vitals_set — update a single vital dimension.
  */
 
-import type { ToolDefinition, ToolContext } from 'cortex-engine';
+import type { ToolDefinition, ToolContext } from '@fozikio/cortex-engine';
 
 const COLLECTION = 'vitals';
 
