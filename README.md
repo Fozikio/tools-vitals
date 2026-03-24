@@ -1,5 +1,9 @@
 # @fozikio/tools-vitals
 
+> **Built into cortex-engine v1.0.0+**
+> These tools are now included in [`@fozikio/cortex-engine`](https://github.com/Fozikio/cortex-engine) core — no separate install needed. This package remains available for use with cortex-engine **v0.x only**. If you're on v1.0.0+, just install `@fozikio/cortex-engine`.
+
+
 Vitals tracking plugin for cortex-engine. Monitor five cognitive dimensions -- curiosity, connection, confidence, creative energy, and frustration -- with automatic behavioral trigger evaluation.
 
 ## Install
