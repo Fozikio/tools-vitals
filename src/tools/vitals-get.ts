@@ -86,6 +86,8 @@ export const vitalsGetTool: ToolDefinition = {
   name: 'vitals_get',
   description:
     'Read all current vitals (curiosity, connection, confidence, creative_energy, frustration) with behavioral trigger evaluation.',
+  category: 'vitals',
+  whenToUse: 'When reading current agent vitals across all dimensions with trigger evaluation',
   inputSchema: {
     type: 'object',
     properties: {
